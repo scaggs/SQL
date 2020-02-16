@@ -1,0 +1,3 @@
+SELECT DISTINCT *
+FROM CMM_Repl.dbo.T_Tagging
+ORDER BY tag_id ASC

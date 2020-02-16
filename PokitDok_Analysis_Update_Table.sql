@@ -1,0 +1,3 @@
+DROP TABLE incubation_studio.dbo.eligibility_pokitdok_pharmacy_analysis
+
+select * into incubation_studio.dbo.eligibility_pokitdok_pharmacy_analysis from datascience.dbo.pokitdok_analysis

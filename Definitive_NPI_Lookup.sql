@@ -1,0 +1,2 @@
+SELECT * FROM dbo.Physicians
+WHERE NPI='1063739928'
